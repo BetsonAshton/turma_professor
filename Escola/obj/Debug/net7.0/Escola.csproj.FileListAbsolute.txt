@@ -1,0 +1,17 @@
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Escola.exe
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Escola.deps.json
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Escola.runtimeconfig.json
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Escola.dll
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Escola.pdb
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.csproj.AssemblyReference.cache
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.AssemblyInfoInputs.cache
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.AssemblyInfo.cs
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.dll
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\refint\Escola.dll
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.pdb
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\ref\Escola.dll
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Workspace\C#\Treino\Treino2\Escola\Escola\obj\Debug\net7.0\Escola.csproj.CopyComplete
